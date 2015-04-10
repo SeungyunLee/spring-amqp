@@ -8,4 +8,3 @@ Start the server. For example, and a *nix-based system where RabbitMQ has been
 installed within `/opt/rabbitmq`, issue the following command:
 
     > sudo /opt/rabbitmq/sbin/rabbitmq-server start
-test
